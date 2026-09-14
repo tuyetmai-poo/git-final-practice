@@ -2,14 +2,9 @@ body {
     font-family: Arial;
 }
 
-/section {
+section {
     padding: 20px;
     border: 1px solid black;
-}
-section {
-    background-color: red;
-    color: yellow;
-    font-size: 100px;
 }
 
 section h2 {
